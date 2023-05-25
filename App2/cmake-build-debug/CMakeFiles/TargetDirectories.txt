@@ -1,0 +1,3 @@
+C:/Users/Iulian/Desktop/Teste_PP/App2/cmake-build-debug/CMakeFiles/App2.dir
+C:/Users/Iulian/Desktop/Teste_PP/App2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iulian/Desktop/Teste_PP/App2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
