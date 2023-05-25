@@ -280,6 +280,9 @@ CMakeFiles/App2.dir/main.cpp.obj: C:/Users/Iulian/Desktop/Teste_PP/App2/main.cpp
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc \
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cstring \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/string.h \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
   C:/Users/Iulian/Desktop/Teste_PP/Share/Clase/Student.h \
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list \
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_list.h \
@@ -452,6 +455,8 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/pthread
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/string.h:
+
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cctype:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ios_base.h:
@@ -581,6 +586,10 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/aligned_buffer.h:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/list.tcc:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cstring:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h:
 
 C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Logare.h:
 
