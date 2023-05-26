@@ -91,6 +91,9 @@
 		<Unit filename="C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Raspuns_intrebare.h">
 			<Option target="App2"/>
 		</Unit>
+		<Unit filename="C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Salveaza_raspunsuri.h">
+			<Option target="App2"/>
+		</Unit>
 		<Unit filename="C:/Users/Iulian/Desktop/Teste_PP/App2/Variabile.h">
 			<Option target="App2"/>
 		</Unit>
