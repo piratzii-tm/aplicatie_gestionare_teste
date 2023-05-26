@@ -7,11 +7,11 @@
 
 
 int main(int numberOfArguments, char **arguments) {
-    std::cout << "Cur";
-    std::cout << "BUNA";
+
     if(numberOfArguments == 1) {
         std::cout << "Comenzi posibile: \n"
                 "  logare <nume>\n"
+                "  deschide_test <idTest>\n"
                 "  delogare";
         return 0;
     }
