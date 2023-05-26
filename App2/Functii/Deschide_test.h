@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include "../Variabile.h"
 
 #ifndef DESCHIDE_TEST_H
 #define DESCHIDE_TEST_H
@@ -23,14 +24,19 @@ void deschide_test(std::string idTest){
 
     //Verifica daca exista fisierul cu textul
     std::string FISIER_TEST_CAUTAT = "../../Share/Fisiere/Teste/" + idTest + ".txt";
-    std::string FISIER_TEST_CURENT = "../../Share/Fisiere/Teste/Test_Curent.txt";
 
     std::ifstream fin_test(FISIER_TEST_CAUTAT);
     std::string nume_test, nrExercitii, intrebare, var, var_cor;
 
 
     if(getline(fin_test, nume_test)){
-        //Daca testul exista Incepem testul si afisam prima intrebare
+        //Daca testul exista, Incepem testul si afisam prima intrebare
+
+        //reface fisier respunsuri test curent
+        std::ofstream fout_raspunsuri_test_curent(FILE_RASPUNSURI_TEST_CURENT);
+        fout_raspunsuri_test_curent << "";
+        fout_raspunsuri_test_curent.close();
+        //
 
         std::cout << "   TESTUL A INCEPUT\n\n";
 
@@ -57,7 +63,7 @@ void deschide_test(std::string idTest){
         std::cout << '\n';
 
         //Scriem fisierul cu testul curent cu restul de intrebari ramase
-        std::ofstream fout_curent_test(FISIER_TEST_CURENT);
+        std::ofstream fout_curent_test(FILE_TEST_CURENT);
         fout_curent_test << nume_test << '\n';
 
         int nrEx = stoi(nrExercitii);

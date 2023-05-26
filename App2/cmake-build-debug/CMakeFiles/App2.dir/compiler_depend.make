@@ -295,7 +295,8 @@ CMakeFiles/App2.dir/main.cpp.obj: C:/Users/Iulian/Desktop/Teste_PP/App2/main.cpp
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fstream.tcc \
-  C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Deschide_test.h
+  C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Deschide_test.h \
+  C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Raspuns_intrebare.h
 
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/exception.h:
@@ -603,3 +604,5 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fstream.tcc:
 
 C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Deschide_test.h:
+
+C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Raspuns_intrebare.h:

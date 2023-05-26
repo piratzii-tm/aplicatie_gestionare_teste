@@ -3,4 +3,4 @@ project(App2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(App2 main.cpp ../Share/Clase/Student.h ../Share/Clase/Student.cpp Functii/Logare.h Functii/Deschide_test.h)
+add_executable(App2 main.cpp ../Share/Clase/Student.h ../Share/Clase/Student.cpp Functii/Logare.h Functii/Deschide_test.h Functii/Raspuns_intrebare.h Variabile.h)

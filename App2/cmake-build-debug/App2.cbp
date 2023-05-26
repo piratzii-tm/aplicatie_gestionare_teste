@@ -88,6 +88,12 @@
 		<Unit filename="C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Logare.h">
 			<Option target="App2"/>
 		</Unit>
+		<Unit filename="C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Raspuns_intrebare.h">
+			<Option target="App2"/>
+		</Unit>
+		<Unit filename="C:/Users/Iulian/Desktop/Teste_PP/App2/Variabile.h">
+			<Option target="App2"/>
+		</Unit>
 		<Unit filename="C:/Users/Iulian/Desktop/Teste_PP/App2/main.cpp">
 			<Option target="App2"/>
 		</Unit>
