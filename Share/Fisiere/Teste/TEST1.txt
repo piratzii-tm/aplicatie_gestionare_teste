@@ -1,0 +1,21 @@
+TEST1
+3
+Cum te cheama?
+ION
+MIHAI
+IULIAN
+MISU
+c
+CATIA ANI AI?
+10
+20
+18
+50
+a
+Cati au?
+TOTI
+NICI UNU
+APROAPE TOTI
+NUSH
+d
+0 0 0 0 0 0 0 0 0 0

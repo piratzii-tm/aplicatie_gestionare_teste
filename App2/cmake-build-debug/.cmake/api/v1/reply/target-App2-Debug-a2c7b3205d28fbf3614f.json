@@ -99,7 +99,8 @@
 			"sourceIndexes" : 
 			[
 				1,
-				3
+				3,
+				4
 			]
 		}
 	],
@@ -125,6 +126,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "Functii/Logare.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Functii/Deschide_test.h",
 			"sourceGroupIndex" : 1
 		}
 	],
