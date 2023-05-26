@@ -2,21 +2,19 @@
 #include <string>
 #include <list>
 
-using namespace std;
-
 #ifndef TESTE_PP_STUDENT_H
 #define TESTE_PP_STUDENT_H
 
 class Student {
-    string nume;
+    std::string nume;
     int nrTesteDate;
-    list<string> idTesteDate;
-    list<int> notaTeste;
+    std::list<std::string> idTesteDate;
+    std::list<int> notaTeste;
 public:
     Student();
-    Student(string);
+    Student(std::string);
     void afis();
-    void addTest(string, int);
+    void addTest(std::string, int);
 };
 
 #endif

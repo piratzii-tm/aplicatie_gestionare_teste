@@ -5,24 +5,24 @@ Student::Student() {
     this->nrTesteDate = 0;
 }
 
-Student::Student(string nume) {
+Student::Student(std::string nume) {
     this->nume = nume;
     this->nrTesteDate = 0;
 }
 
 void Student::afis() {
-    cout << "Nume: " << this->nume << '\n';
-    cout << "Numar e teste: " << this->nrTesteDate << '\n';
-    cout << "Test si nota: \n";
-    list<string>::iterator testIte;
-    list<int>::iterator notaIte;
+    std::cout << "Nume: " << this->nume << '\n';
+    std::cout << "Numar e teste: " << this->nrTesteDate << '\n';
+    std::cout << "Test si nota: \n";
+    std::list<std::string>::iterator testIte;
+    std::list<int>::iterator notaIte;
     for(testIte = this->idTesteDate.begin(), notaIte = this->notaTeste.begin();
         testIte != this->idTesteDate.end(); testIte++, notaIte++){
-        cout << *testIte << " -> " << *notaIte << '\n';
+        std::cout << *testIte << " -> " << *notaIte << '\n';
     }
 }
 
-void Student::addTest(string idTest, int nota) {
+void Student::addTest(std::string idTest, int nota) {
     this->nrTesteDate++;
     this->idTesteDate.push_back(idTest);
     this->notaTeste.push_back(nota);

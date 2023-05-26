@@ -5,8 +5,10 @@
 #include "Functii/Deschide_test.h"
 
 
+
 int main(int numberOfArguments, char **arguments) {
-    cout << "BUNA";
+    std::cout << "Cur";
+    std::cout << "BUNA";
     if(numberOfArguments == 1) {
         std::cout << "Comenzi posibile: \n"
                 "  logare <nume>\n"
@@ -26,7 +28,7 @@ int main(int numberOfArguments, char **arguments) {
 
     if(strcmp(arguments[1], "deschide_test") == 0){
         if(numberOfArguments != 3) {
-            cout << "Sintaxa invalida! Sintaxa corenta: deschide_test <idTest>";
+            std::cout << "Sintaxa invalida! Sintaxa corenta: deschide_test <idTest>";
             return 0;
         }else {
             deschide_test(arguments[2]);
