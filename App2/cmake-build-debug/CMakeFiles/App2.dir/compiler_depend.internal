@@ -329,4 +329,20 @@ CMakeFiles/App2.dir/main.cpp.obj
  D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc
  D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/execution_defs.h
  C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Salveaza_raspunsuri.h
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cmath
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/x86_64-w64-mingw32/include/math.h
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/specfun.h
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/gamma.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/special_function_util.h
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/bessel_function.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/beta_function.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/ell_integral.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/exp_integral.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/hypergeometric.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/legendre_function.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/modified_bessel_func.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_hermite.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_laguerre.tcc
+ D:/Compilatoare/CLion/CLion 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/riemann_zeta.tcc
 

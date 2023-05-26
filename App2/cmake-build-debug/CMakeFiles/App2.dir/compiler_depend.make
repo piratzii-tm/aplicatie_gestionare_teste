@@ -326,7 +326,23 @@ CMakeFiles/App2.dir/main.cpp.obj: C:/Users/Iulian/Desktop/Teste_PP/App2/main.cpp
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h \
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc \
   D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/execution_defs.h \
-  C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Salveaza_raspunsuri.h
+  C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Salveaza_raspunsuri.h \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cmath \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/math.h \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/specfun.h \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/gamma.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/special_function_util.h \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/bessel_function.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/beta_function.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/ell_integral.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/exp_integral.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/hypergeometric.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/legendre_function.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/modified_bessel_func.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_hermite.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_laguerre.tcc \
+  D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/riemann_zeta.tcc
 
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/exception.h:
@@ -368,6 +384,8 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ostream:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/stdint.h:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/specfun.h:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ios:
 
@@ -421,6 +439,8 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/corecrt
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h:
 
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/legendre_function.tcc:
+
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h:
 
 C:/Users/Iulian/Desktop/Teste_PP/App2/main.cpp:
@@ -437,7 +457,11 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/locale.
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/exception:
 
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/math.h:
+
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/debug/debug.h:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/beta_function.tcc:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uses_allocator.h:
 
@@ -468,6 +492,8 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/pthread
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/move.h:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/type_traits:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/bessel_function.tcc:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/char_traits.h:
 
@@ -577,6 +603,8 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string_view:
 
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/riemann_zeta.tcc:
+
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/functional_hash.h:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/string_conversions.h:
@@ -679,6 +707,8 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/std_function.h:
 
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/hypergeometric.tcc:
+
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/unordered_map:
 
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hashtable_policy.h:
@@ -696,3 +726,21 @@ D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/
 D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/execution_defs.h:
 
 C:/Users/Iulian/Desktop/Teste_PP/App2/Functii/Salveaza_raspunsuri.h:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cmath:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/gamma.tcc:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/special_function_util.h:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/ell_integral.tcc:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/exp_integral.tcc:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/modified_bessel_func.tcc:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_hermite.tcc:
+
+D:/Compilatoare/CLion/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tr1/poly_laguerre.tcc:

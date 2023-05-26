@@ -58,7 +58,6 @@ int main(int numberOfArguments, char **arguments) {
         }
     }
 
-
-
+    std::cout << "Comanda invalida!";
     return 0;
 }

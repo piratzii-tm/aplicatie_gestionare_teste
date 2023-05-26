@@ -26,6 +26,7 @@ void raspuns_intrebare(const std::string& myRaspuns){
 
     //verificam daca avem vre-un test pornit
     if(getline(fin_test_curent, nume_test)){
+
         //daca DA,
         getline(fin_test_curent, nrExercitii);
 
@@ -36,6 +37,8 @@ void raspuns_intrebare(const std::string& myRaspuns){
         append_raspunsuri_curent.close();
 
         if(nrEx > 0){ //daca inca nu e ultima intrebare
+            std::cout << "URMATAOREA INTREBARE: \n\n";
+
             getline(fin_test_curent, intrebare);
             std::cout << intrebare << '\n';
 
