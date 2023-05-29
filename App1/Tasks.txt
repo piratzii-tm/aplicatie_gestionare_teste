@@ -1,0 +1,51 @@
+** Comenzi posibile:
+
+--- sesiune de profesor
+
+logare <nume_profesor>
+
+* Un profesor nu poate face nimic daca nu este logat si logarea unui profesor se face pe baza de un fisier in care se afla numele profesolui logat.
+
+vizulizare_profil
+
+* Afiseaza numele profesorului si testele create
+
+--- sesiune creare test
+creare_test <id_test_de_creat> <nr_intrebari>
+
+* Incepe o sesiune de test si nu se poate iesi din aceasta sesiune decat daca se adauga toate intrebarile
+
+adaugare_intrebare <enunt> <raspuns1> <raspuns2> <raspuns3> <raspuns4> <raspuns_corect: a,b,c,d>
+
+* Se va retine intr-un fisier cate intrebari mai sunt de adaugat, fiecare intrebare adugandu-se direct in fisierul testului aferent
+* Cand in fisierul in care se afla informatiile referitoare la cate intrebari mai sunt numarul intrebarilor este 0 se afiseaza ca s-a terminat de creat testul si se afiseaza continutul testului
+
+
+--- sesiune de modificare test
+modificare_test <id_test>
+
+* Incepe o sesiune de modifcare test si nu se poate iesi decat daca se scrie o comanda speciala
+
+intrebare_de_modificat enunt/raspuns: <enunt/raspuns>
+
+* Specifici ce exercitiu vrei sa modifici si pe baza raspunsului nu te lasa sa scrii anumite comenzi
+
+enunt_de_modificat <enunt>
+raspuns_de_modificat <litera_rapunsului> <noul_rapuns>
+
+* Modifica raspunsul sau intrebarea la exercitiul cu numarul precizat in fisierul aferent sesiunii de modificat
+
+stop_modificare_test
+
+--- sesiune de vizualizare statistici
+
+vizualizare_statistici <id_test>
+
+* Metoda grafica de viziualizare a numarului de note pentru testul specificat in id
+
+delogare
+
+* Delogare profesor curent
+
+* Nici o comanda nu poate fi accesata daca profesorul nu este logat un profesor
+* Nici o comanda infara comenzilor dintr-o sesiune nu poate fi accesata infara sesiunii respective
