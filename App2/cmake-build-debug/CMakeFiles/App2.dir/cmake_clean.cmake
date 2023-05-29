@@ -2,8 +2,6 @@ file(REMOVE_RECURSE
   "App2.exe"
   "App2.exe.manifest"
   "App2.pdb"
-  "CMakeFiles/App2.dir/C_/Users/Iulian/Desktop/Teste_PP/Share/Clase/Student.cpp.obj"
-  "CMakeFiles/App2.dir/C_/Users/Iulian/Desktop/Teste_PP/Share/Clase/Student.cpp.obj.d"
   "CMakeFiles/App2.dir/main.cpp.obj"
   "CMakeFiles/App2.dir/main.cpp.obj.d"
   "libApp2.dll.a"
