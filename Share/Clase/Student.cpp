@@ -12,7 +12,7 @@ Student::Student(std::string nume) {
 
 void Student::afis() {
     std::cout << "Nume: " << this->nume << '\n';
-    std::cout << "Numar e teste: " << this->nrTesteDate << '\n';
+    std::cout << "Numar de teste: " << this->nrTesteDate << '\n';
     std::cout << "Test si nota: \n";
     std::list<std::string>::iterator testIte;
     std::list<int>::iterator notaIte;
