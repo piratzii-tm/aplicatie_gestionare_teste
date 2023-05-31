@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1\bin\cmake\win\x64\bin\cmake.exe" -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1
+CMAKE_SOURCE_DIR = C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -152,6 +152,78 @@ App1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/App1.cpp.s
 .PHONY : App1.cpp.s
 
+classes/Exercitiu.obj: classes/Exercitiu.cpp.obj
+.PHONY : classes/Exercitiu.obj
+
+# target to build an object file
+classes/Exercitiu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj
+.PHONY : classes/Exercitiu.cpp.obj
+
+classes/Exercitiu.i: classes/Exercitiu.cpp.i
+.PHONY : classes/Exercitiu.i
+
+# target to preprocess a source file
+classes/Exercitiu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Exercitiu.cpp.i
+.PHONY : classes/Exercitiu.cpp.i
+
+classes/Exercitiu.s: classes/Exercitiu.cpp.s
+.PHONY : classes/Exercitiu.s
+
+# target to generate assembly for a file
+classes/Exercitiu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Exercitiu.cpp.s
+.PHONY : classes/Exercitiu.cpp.s
+
+classes/Professor.obj: classes/Professor.cpp.obj
+.PHONY : classes/Professor.obj
+
+# target to build an object file
+classes/Professor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Professor.cpp.obj
+.PHONY : classes/Professor.cpp.obj
+
+classes/Professor.i: classes/Professor.cpp.i
+.PHONY : classes/Professor.i
+
+# target to preprocess a source file
+classes/Professor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Professor.cpp.i
+.PHONY : classes/Professor.cpp.i
+
+classes/Professor.s: classes/Professor.cpp.s
+.PHONY : classes/Professor.s
+
+# target to generate assembly for a file
+classes/Professor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Professor.cpp.s
+.PHONY : classes/Professor.cpp.s
+
+classes/Test.obj: classes/Test.cpp.obj
+.PHONY : classes/Test.obj
+
+# target to build an object file
+classes/Test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Test.cpp.obj
+.PHONY : classes/Test.cpp.obj
+
+classes/Test.i: classes/Test.cpp.i
+.PHONY : classes/Test.i
+
+# target to preprocess a source file
+classes/Test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Test.cpp.i
+.PHONY : classes/Test.cpp.i
+
+classes/Test.s: classes/Test.cpp.s
+.PHONY : classes/Test.s
+
+# target to generate assembly for a file
+classes/Test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\App1.dir\build.make CMakeFiles/App1.dir/classes/Test.cpp.s
+.PHONY : classes/Test.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -164,6 +236,15 @@ help:
 	@echo ... App1.obj
 	@echo ... App1.i
 	@echo ... App1.s
+	@echo ... classes/Exercitiu.obj
+	@echo ... classes/Exercitiu.i
+	@echo ... classes/Exercitiu.s
+	@echo ... classes/Professor.obj
+	@echo ... classes/Professor.i
+	@echo ... classes/Professor.s
+	@echo ... classes/Test.obj
+	@echo ... classes/Test.i
+	@echo ... classes/Test.s
 .PHONY : help
 
 

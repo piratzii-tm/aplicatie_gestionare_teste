@@ -1,0 +1,27 @@
+istorie3105
+4
+Anul revolutiei:
+1989
+1999
+1988
+1898
+a
+Anul intrarii in UE:
+2007
+1999
+1988
+1898
+a
+Numele domnitorului Moldovei care a construit peste 42 de manastiri:
+Miheai Viteazul
+Stefan cel Mare
+Ion Luca Caragiale
+Vlad Tepes
+b
+Anii intre care s-a petrecut WW2
+1940-1941
+1950-1952
+1988-1990
+1944-1946
+d
+0 0 0 0 1 0 0 0 0 0 

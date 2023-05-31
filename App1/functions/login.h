@@ -9,7 +9,7 @@
 #include<string>
 #include<fstream>
 
-#include "fileExists.h"
+#include "helpers/fileExists.h"
 
 void login(std::string name){
     std::replace( name.begin(), name.end(), '\'', '\0');

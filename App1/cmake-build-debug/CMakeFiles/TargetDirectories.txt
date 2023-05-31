@@ -1,3 +1,3 @@
-C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/CMakeFiles/App1.dir
-C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/CMakeFiles/App1.dir
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
