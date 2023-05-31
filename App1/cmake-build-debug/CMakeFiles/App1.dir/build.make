@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1\bin\cmake\win\x64\bin\cmake.exe" -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1
+CMAKE_SOURCE_DIR = C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/App1.dir/depend.make
@@ -69,32 +69,80 @@ include CMakeFiles/App1.dir/progress.make
 include CMakeFiles/App1.dir/flags.make
 
 CMakeFiles/App1.dir/App1.cpp.obj: CMakeFiles/App1.dir/flags.make
-CMakeFiles/App1.dir/App1.cpp.obj: C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/App1.cpp
+CMakeFiles/App1.dir/App1.cpp.obj: C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/App1.cpp
 CMakeFiles/App1.dir/App1.cpp.obj: CMakeFiles/App1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/App1.dir/App1.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App1.dir/App1.cpp.obj -MF CMakeFiles\App1.dir\App1.cpp.obj.d -o CMakeFiles\App1.dir\App1.cpp.obj -c C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\App1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/App1.dir/App1.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App1.dir/App1.cpp.obj -MF CMakeFiles\App1.dir\App1.cpp.obj.d -o CMakeFiles\App1.dir\App1.cpp.obj -c C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\App1.cpp
 
 CMakeFiles/App1.dir/App1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/App1.dir/App1.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\App1.cpp > CMakeFiles\App1.dir\App1.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\App1.cpp > CMakeFiles\App1.dir\App1.cpp.i
 
 CMakeFiles/App1.dir/App1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/App1.dir/App1.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\App1.cpp -o CMakeFiles\App1.dir\App1.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\App1.cpp -o CMakeFiles\App1.dir\App1.cpp.s
+
+CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj: CMakeFiles/App1.dir/flags.make
+CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj: C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.cpp
+CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj: CMakeFiles/App1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj -MF CMakeFiles\App1.dir\classes\Exercitiu.cpp.obj.d -o CMakeFiles\App1.dir\classes\Exercitiu.cpp.obj -c C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Exercitiu.cpp
+
+CMakeFiles/App1.dir/classes/Exercitiu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/App1.dir/classes/Exercitiu.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Exercitiu.cpp > CMakeFiles\App1.dir\classes\Exercitiu.cpp.i
+
+CMakeFiles/App1.dir/classes/Exercitiu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/App1.dir/classes/Exercitiu.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Exercitiu.cpp -o CMakeFiles\App1.dir\classes\Exercitiu.cpp.s
+
+CMakeFiles/App1.dir/classes/Test.cpp.obj: CMakeFiles/App1.dir/flags.make
+CMakeFiles/App1.dir/classes/Test.cpp.obj: C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Test.cpp
+CMakeFiles/App1.dir/classes/Test.cpp.obj: CMakeFiles/App1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/App1.dir/classes/Test.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App1.dir/classes/Test.cpp.obj -MF CMakeFiles\App1.dir\classes\Test.cpp.obj.d -o CMakeFiles\App1.dir\classes\Test.cpp.obj -c C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Test.cpp
+
+CMakeFiles/App1.dir/classes/Test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/App1.dir/classes/Test.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Test.cpp > CMakeFiles\App1.dir\classes\Test.cpp.i
+
+CMakeFiles/App1.dir/classes/Test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/App1.dir/classes/Test.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Test.cpp -o CMakeFiles\App1.dir\classes\Test.cpp.s
+
+CMakeFiles/App1.dir/classes/Professor.cpp.obj: CMakeFiles/App1.dir/flags.make
+CMakeFiles/App1.dir/classes/Professor.cpp.obj: C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Professor.cpp
+CMakeFiles/App1.dir/classes/Professor.cpp.obj: CMakeFiles/App1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/App1.dir/classes/Professor.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/App1.dir/classes/Professor.cpp.obj -MF CMakeFiles\App1.dir\classes\Professor.cpp.obj.d -o CMakeFiles\App1.dir\classes\Professor.cpp.obj -c C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Professor.cpp
+
+CMakeFiles/App1.dir/classes/Professor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/App1.dir/classes/Professor.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Professor.cpp > CMakeFiles\App1.dir\classes\Professor.cpp.i
+
+CMakeFiles/App1.dir/classes/Professor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/App1.dir/classes/Professor.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\classes\Professor.cpp -o CMakeFiles\App1.dir\classes\Professor.cpp.s
 
 # Object files for target App1
 App1_OBJECTS = \
-"CMakeFiles/App1.dir/App1.cpp.obj"
+"CMakeFiles/App1.dir/App1.cpp.obj" \
+"CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj" \
+"CMakeFiles/App1.dir/classes/Test.cpp.obj" \
+"CMakeFiles/App1.dir/classes/Professor.cpp.obj"
 
 # External object files for target App1
 App1_EXTERNAL_OBJECTS =
 
 App1.exe: CMakeFiles/App1.dir/App1.cpp.obj
+App1.exe: CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj
+App1.exe: CMakeFiles/App1.dir/classes/Test.cpp.obj
+App1.exe: CMakeFiles/App1.dir/classes/Professor.cpp.obj
 App1.exe: CMakeFiles/App1.dir/build.make
 App1.exe: CMakeFiles/App1.dir/linkLibs.rsp
 App1.exe: CMakeFiles/App1.dir/objects1
 App1.exe: CMakeFiles/App1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable App1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable App1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\App1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -106,6 +154,6 @@ CMakeFiles/App1.dir/clean:
 .PHONY : CMakeFiles/App1.dir/clean
 
 CMakeFiles/App1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1 C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1 C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug C:\Users\Iulian\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles\App1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1 C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1 C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug C:\Users\Poe\Desktop\aplicatie_gestionare_teste\App1\cmake-build-debug\CMakeFiles\App1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/App1.dir/depend
 

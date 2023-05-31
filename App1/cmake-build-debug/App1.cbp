@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="App1">
-				<Option output="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/App1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
+				<Option output="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/App1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 App1"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 App1"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="App1/fast">
-				<Option output="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/App1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
+				<Option output="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/App1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,49 +55,79 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 App1/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 App1/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/App1.cpp">
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/App1.cpp">
 			<Option target="App1"/>
 		</Unit>
-		<Unit filename="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/functions/fileExists.h">
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.cpp">
 			<Option target="App1"/>
 		</Unit>
-		<Unit filename="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/functions/login.h">
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.h">
 			<Option target="App1"/>
 		</Unit>
-		<Unit filename="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/functions/logout.h">
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Professor.cpp">
 			<Option target="App1"/>
 		</Unit>
-		<Unit filename="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/functions/vizualizareProfil.h">
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Professor.h">
 			<Option target="App1"/>
 		</Unit>
-		<Unit filename="C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/CMakeLists.txt">
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Test.cpp">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Test.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/adugareIntrebare.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/creareTest.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/fileExists.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/getTest.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyCreateSession.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/login.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/logout.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/vizualizareProfil.h">
+			<Option target="App1"/>
+		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

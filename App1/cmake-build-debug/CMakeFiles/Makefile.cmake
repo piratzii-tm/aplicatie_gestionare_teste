@@ -31,7 +31,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2023.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1/bin/cmake/win/x64/share/cmake-3.25/Modules/ProcessorCount.cmake"
-  "C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/CMakeLists.txt"
+  "C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/CMakeLists.txt"
   "CMakeFiles/3.25.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.2/CMakeRCCompiler.cmake"
