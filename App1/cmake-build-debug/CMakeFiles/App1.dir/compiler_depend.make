@@ -166,7 +166,18 @@ CMakeFiles/App1.dir/App1.cpp.obj: C:/Users/Poe/Desktop/aplicatie_gestionare_test
   C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Test.h \
   C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/adugareIntrebare.h \
   C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.h \
-  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyCreateSession.h
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/statisticiTest.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareTest.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareExercitiu.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/afisVariantaCurenta.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/stopModificareExercitiu.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/stopModificareTest.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareEnunt.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareRaspunCorect.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareRaspuns.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyCreateSession.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyEditSession.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyExEditSessioin.h
 
 CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj: C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.cpp \
   C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.h \
@@ -841,6 +852,8 @@ C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/1
 
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
 
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareTest.h:
+
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stdlib.h:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/malloc.h:
@@ -858,6 +871,8 @@ C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/1
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/functional_hash.h:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_string.tcc:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareEnunt.h:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/system_error:
 
@@ -925,6 +940,8 @@ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Professor.h:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/vector:
 
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareExercitiu.h:
+
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_uninitialized.h:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h:
@@ -938,6 +955,22 @@ C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/1
 C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.h:
 
 C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/creareTest.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/statisticiTest.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/afisVariantaCurenta.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/stopModificareExercitiu.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/stopModificareTest.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareRaspunCorect.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareRaspuns.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyEditSession.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyExEditSessioin.h:
 
 C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Professor.cpp:
 

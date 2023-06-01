@@ -47,3 +47,18 @@ void Exercitiu::afisareProfil(int j) {
     }
     std::cout<<"Varianta corecta: "<<this->variantaCorecta<<"\n";
 }
+
+void Exercitiu::setEnunt(std::string enuntNou) {
+    this->cerinta = enuntNou;
+}
+void Exercitiu::setRaspCorect(std::string raspuns) {
+    this->variantaCorecta = raspuns;
+}
+
+void Exercitiu::setRaspuns(int nrRaspuns, std::string raspuns) {
+    for(int i=0;i<4;i++){
+        if(i == nrRaspuns){
+            this->raspunsuri[i] = raspuns;
+        }
+    }
+}

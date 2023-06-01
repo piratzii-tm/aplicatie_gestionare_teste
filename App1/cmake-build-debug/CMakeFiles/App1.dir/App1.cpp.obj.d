@@ -164,4 +164,15 @@ CMakeFiles/App1.dir/App1.cpp.obj: \
  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Test.h \
  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/adugareIntrebare.h \
  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.h \
- C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyCreateSession.h
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/statisticiTest.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareTest.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareExercitiu.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/afisVariantaCurenta.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/stopModificareExercitiu.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/stopModificareTest.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareEnunt.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareRaspunCorect.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareRaspuns.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyCreateSession.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyEditSession.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyExEditSessioin.h
