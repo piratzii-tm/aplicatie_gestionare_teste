@@ -1,7 +1,3 @@
 Poenaru Iulian
-5
-istorie3105
+1
 testdetest
-test
-test
-test

@@ -44,6 +44,7 @@ void adaugaIntrebare(std::string enunt, std::vector<std::string> rasp, std::stri
 
     current++;
     std::ofstream hout("../files/creationTest.txt");
+
     if(current == total){
         hout<<"";
         std::cout<<"\nAi adaugat toate intrebarile!\n";
@@ -66,6 +67,12 @@ void adaugaIntrebare(std::string enunt, std::vector<std::string> rasp, std::stri
         std::ofstream uout(pathToFileProf);
         uout<<prof;
         uout.close();
+
+        std::ofstream vout(pathOfTest,std::ios::app);
+        for(int i=0;i<10;i++){
+            vout<<"0 ";
+        }
+        vout.close();
     }else{
         hout<<testIdH<<"\n"<<total<<"\n"<<current;
     }

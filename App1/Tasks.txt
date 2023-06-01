@@ -26,14 +26,23 @@ modificare_test <id_test>
 
 * Incepe o sesiune de modifcare test si nu se poate iesi decat daca se scrie o comanda speciala
 
-intrebare_de_modificat enunt/raspuns: <enunt/raspuns>
+afiseaza_varianta_curenta
+
+* Afiseaza varianta curenta a testului
+
+modificare_exercitiu <nr_exercitiu>
 
 * Specifici ce exercitiu vrei sa modifici si pe baza raspunsului nu te lasa sa scrii anumite comenzi
 
-enunt_de_modificat <enunt>
-raspuns_de_modificat <litera_rapunsului> <noul_rapuns>
+enunt '<enunt>''
+raspuns <litera_rapunsului> '<noul_rapuns>'
+varianta_corecta <litera_rasp_corect>
 
 * Modifica raspunsul sau intrebarea la exercitiul cu numarul precizat in fisierul aferent sesiunii de modificat
+
+stop_modificare_exercitiu
+
+* Stop modificare exercitiu
 
 stop_modificare_test
 
@@ -49,3 +58,8 @@ delogare
 
 * Nici o comanda nu poate fi accesata daca profesorul nu este logat un profesor
 * Nici o comanda infara comenzilor dintr-o sesiune nu poate fi accesata infara sesiunii respective
+
+To do in the future:
+* Orice profesor poate modifica un test daca are acces la id-ul testului, lucru care ar trebui modificat
+* Interpretarea comenzilor partiale si oferirea unei solutii mai exacte
+* Este posibil ca verificarile sa nu fie cele mai riguroase, trebuie vazut mai in detaliu

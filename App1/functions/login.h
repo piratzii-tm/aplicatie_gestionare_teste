@@ -22,10 +22,11 @@ void login(std::string name){
         if(fileExists(name)){
             fout<<name;
             std::cout<<"\nBuna ziua, "<<name<<" Puteti folosi urmatoarele comenzi: \n\n";
-            std::cout<<" ./App1.exe vizualizare_profil \n";
-            std::cout<<" ./App1.exe creare_test <id_test_de_creat> <nr_intrebari> \n";
-            std::cout<<" ./App1.exe modificare_test <id_test> \n";
-            std::cout<<" ./App1.exe delogare \n\n";
+            std::cout<<" ./App1.exe vizulizare_profil\n";
+            std::cout<<" ./App1.exe creare_test <id_test_de_creat> <nr_intrebari>\n";
+            std::cout<<" ./App1.exe modificare_test <id_test>\n";
+            std::cout<<" ./App1.exe vizualizare_statistici <id_test>\n";
+            std::cout<<" ./App1.exe delogare\n";
         }else{
             std::cout<<"Nu exista profesor cu numele "<<name<<". Rescrieti comanda de logare cu un nume existent.\n";
         }

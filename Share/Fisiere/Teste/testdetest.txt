@@ -1,0 +1,23 @@
+testdetest
+3
+Numele lui Elon Musk este urmatorul:
+Elon Musk
+Andrei
+Mihai
+Marian
+a
+Care este numarul ce urmeaza dupa 7?
+7
+8
+9
+7.1
+d
+Care este culoarea cerului?
+albastru
+negru
+rosu
+verde
+a
+
+a
+0 2 0 0 0 

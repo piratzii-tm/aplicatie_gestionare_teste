@@ -18,13 +18,16 @@ class Exercitiu {
 public:
     Exercitiu(){}
     Exercitiu(std::string, std::vector<std::string>, std::string);
-
     std::string getCerinta(){return this->cerinta;}
+    void afisareProfil(int);
+    void setEnunt(std::string enuntNou);
+    void setRaspCorect(std::string raspuns);
+    void setRaspuns(int nrRaspuns, std::string raspuns);
 
     friend std::ostream& operator <<(std::ostream&, const Exercitiu&);
     friend std::istream& operator >>(std::istream&, Exercitiu&);
 
-    void afisareProfil(int);
+
 };
 
 
