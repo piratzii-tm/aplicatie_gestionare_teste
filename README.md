@@ -64,7 +64,7 @@ Comenzile ce pot fi scrise în linia de comandă sunt:
     Comanda folosita pentru a de deloga
     
 Cazuri speciale:
-    -Dacă un student încearcă să deschidă un test, dar acesta nu este logat, nu i se va permite
-    -Dacă un student încearcă să răspundă la o întrebare, dar acesta nu este logat sau nu este pornit nici un test, nu i se va permite
-    -Dacă un student pornește un test înainte să îl fi finalizat pe cel curent, toate răspunsurile la testului vechi vor fi șterse
-    -Dacă răspunsul la întrebare nu este a, b, c sau d, nu se va trece la următoarea întrebare, iar studentul va fi atenționat
+    -Dacă un student încearcă să deschidă un test, dar acesta nu este logat, nu i se va permite<br><br>
+    -Dacă un student încearcă să răspundă la o întrebare, dar acesta nu este logat sau nu este pornit nici un test, nu i se va permite<br><br>
+    -Dacă un student pornește un test înainte să îl fi finalizat pe cel curent, toate răspunsurile la testului vechi vor fi șterse<br><br>
+    -Dacă răspunsul la întrebare nu este a, b, c sau d, nu se va trece la următoarea întrebare, iar studentul va fi atenționat<br><br>
