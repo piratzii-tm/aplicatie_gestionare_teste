@@ -63,7 +63,7 @@ Comenzile ce pot fi scrise în linia de comandă sunt:
 - `./App1.exe delogare`
     Comanda folosita pentru a de deloga
     
-Cazuri speciale:
+Cazuri speciale: <br><br>
     -Dacă un student încearcă să deschidă un test, dar acesta nu este logat, nu i se va permite<br><br>
     -Dacă un student încearcă să răspundă la o întrebare, dar acesta nu este logat sau nu este pornit nici un test, nu i se va permite<br><br>
     -Dacă un student pornește un test înainte să îl fi finalizat pe cel curent, toate răspunsurile la testului vechi vor fi șterse<br><br>
