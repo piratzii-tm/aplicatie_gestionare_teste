@@ -42,6 +42,12 @@ void modificareRaspuns(std::string lit, std::string nouRaspuns){
     gout<<test;
     gout.close();
 
+    std::fstream nout(pathToTest, std::ios::app);
+    for(int i =0;i<10;i++){
+        nout<<test.getStats()[i]<<" ";
+    }
+    nout.close();
+
     std::cout<<"\nRaspunsul "<<lit<<" pentru exercitiul "<< exNr<<" a fost modificat cu succes!\n";
 }
 

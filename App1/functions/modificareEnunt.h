@@ -34,6 +34,12 @@ void modificareEnunt(std::string enuntNou){
     gout<<test;
     gout.close();
 
+    std::fstream nout(pathToTest, std::ios::app);
+    for(int i =0;i<10;i++){
+        nout<<test.getStats()[i]<<" ";
+    }
+    nout.close();
+
     std::cout<<"\nEnuntul pentru exercitiul "<< exNr<<" a fost modificat cu succes!\n";
 }
 

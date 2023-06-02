@@ -31,6 +31,12 @@ void modificareVariantaCorecta(std::string varCorecta){
     gout<<test;
     gout.close();
 
+    std::fstream nout(pathToTest, std::ios::app);
+    for(int i =0;i<10;i++){
+        nout<<test.getStats()[i]<<" ";
+    }
+    nout.close();
+
     std::cout<<"\nRaspunsul corect pentru exercitiul "<< exNr<<" a fost modificat cu succes!\n";
 }
 

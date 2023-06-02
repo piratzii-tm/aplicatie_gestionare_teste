@@ -177,7 +177,8 @@ CMakeFiles/App1.dir/App1.cpp.obj: C:/Users/Poe/Desktop/aplicatie_gestionare_test
   C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareRaspuns.h \
   C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyCreateSession.h \
   C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyEditSession.h \
-  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyExEditSessioin.h
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyExEditSessioin.h \
+  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyLoggedProf.h
 
 CMakeFiles/App1.dir/classes/Exercitiu.cpp.obj: C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.cpp \
   C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/classes/Exercitiu.h \
@@ -655,6 +656,8 @@ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/logout.h:
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ostream:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h:
+
+C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyLoggedProf.h:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ios:
 

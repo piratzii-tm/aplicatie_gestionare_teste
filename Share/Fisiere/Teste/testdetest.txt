@@ -14,10 +14,8 @@ Care este numarul ce urmeaza dupa 7?
 d
 Care este culoarea cerului?
 albastru
-negru
+frumos
 rosu
 verde
 a
-
-a
-0 2 0 0 0 
+ 2 0 0 0 3 6 0 0 0 0 2 0 0 0 3 6 0 0 0 
