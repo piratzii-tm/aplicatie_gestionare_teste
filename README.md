@@ -47,11 +47,6 @@ Comenzile ce pot fi scrise în linia de comandă sunt:
 
 ### App2 - partea elevului 
 
-App1 se folosește de clasa **Student**, **Test** și **Exercițiu**. Relațiile între clase sunt:
-
-- *Compoziție* între **Test** și **Exercțiu**
-- *Agregare* între **Student** și **Test**
-
 Comenzile ce pot fi scrise în linia de comandă sunt:
 
 - `./App2.exe logare '<nume_student>'` 
