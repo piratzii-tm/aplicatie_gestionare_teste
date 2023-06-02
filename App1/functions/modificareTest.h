@@ -14,7 +14,7 @@ void modificareTest(std::string idTest){
     fout<<idTest<<"\n";
     fout.close();
 
-    std::cout<<"\n Ai pornit o sesiunde de modificare test! Comenzile posibile sunt:\n\n";
+    std::cout<<"\nAi pornit o sesiunde de modificare test! Comenzile posibile sunt:\n\n";
     std::cout<<" ./App1.exe modificare_exercitiu <nr_exercitiu>\n";
     std::cout<<" ./App1.exe stop_modificare_test\n";
     std::cout<<" ./App1.exe afiseaza_varianta_curenta\n\n";

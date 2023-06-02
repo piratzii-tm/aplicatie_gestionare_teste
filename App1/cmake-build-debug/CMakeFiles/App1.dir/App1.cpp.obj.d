@@ -175,4 +175,5 @@ CMakeFiles/App1.dir/App1.cpp.obj: \
  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/modificareRaspuns.h \
  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyCreateSession.h \
  C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyEditSession.h \
- C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyExEditSessioin.h
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyExEditSessioin.h \
+ C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyLoggedProf.h

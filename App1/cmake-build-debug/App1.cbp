@@ -127,6 +127,9 @@
 		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyExEditSessioin.h">
 			<Option target="App1"/>
 		</Unit>
+		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/helpers/verifyLoggedProf.h">
+			<Option target="App1"/>
+		</Unit>
 		<Unit filename="C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App1/functions/login.h">
 			<Option target="App1"/>
 		</Unit>

@@ -19,5 +19,5 @@ add_executable(App1
         classes/Professor.h
         classes/Professor.cpp
         functions/helpers/getTest.h
-        functions/statisticiTest.h functions/modificareTest.h functions/modificareExercitiu.h functions/helpers/verifyEditSession.h functions/afisVariantaCurenta.h functions/stopModificareExercitiu.h functions/stopModificareTest.h functions/helpers/verifyExEditSessioin.h functions/modificareEnunt.h functions/modificareRaspunCorect.h functions/modificareRaspuns.h)
+        functions/statisticiTest.h functions/modificareTest.h functions/modificareExercitiu.h functions/helpers/verifyEditSession.h functions/afisVariantaCurenta.h functions/stopModificareExercitiu.h functions/stopModificareTest.h functions/helpers/verifyExEditSessioin.h functions/modificareEnunt.h functions/modificareRaspunCorect.h functions/modificareRaspuns.h functions/helpers/verifyLoggedProf.h)
 
