@@ -100,8 +100,7 @@
 				2,
 				3,
 				4,
-				5,
-				6
+				5
 			]
 		}
 	],
@@ -136,11 +135,6 @@
 		{
 			"backtrace" : 1,
 			"path" : "Functii/Salveaza_raspunsuri.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App1/functions/login.h",
 			"sourceGroupIndex" : 1
 		}
 	],
