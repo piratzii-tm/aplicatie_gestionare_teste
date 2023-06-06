@@ -314,6 +314,63 @@ int main(int numberOfArguments, char **arguments) {
         std::cout<<" ./App1.exe logare '<nume_profesor>'\n";
         return 0;
     }
+
+    if(strcmp(arguments[1],"logare") == 0){
+        std::cout<<"\n Comanda pentru logare este urmatoarea: \n\n";
+        std::cout<<" ./App1.exe logare '<nume_profesor>'";
+    }
+    if(strcmp(arguments[1],"delogare") == 0){
+        std::cout<<"\n Comanda pentru delogare este urmatoarea:\n\n";
+        std::cout<<" ./App1.exe delogare \n";
+    }
+    if(strcmp(arguments[1], "vizualizare_profil") == 0){
+        std::cout<<"\n Comanda pentru vizualizare profil este urmatoarea:\n\n";
+        std::cout<<" ./App1.exe vizualizare_profil\n";
+    }
+    if(strcmp(arguments[1], "creare_test")==0){
+        std::cout<<"\nComanda pentru creare test este umatoarea:\n\n";
+        std::cout<<" ./App1.exe creare_test <id_test_de_creat> <nr_intrebari>\n";
+    }
+    if(strcmp(arguments[1], "adaugare_intrebare") == 0){
+        std::cout<<"\nComanda pentru adaugare intrebare este urmatoarea:\n\n";
+        std::cout<<" ./App1.exe adaugare_intrebare <enunt> <raspuns1> <raspuns2> <raspuns3> <raspuns4> <a/b/c/d>";
+    }
+    if(strcmp(arguments[1], "vizualizare_statistici")==0){
+        std::cout<<"\nComanda pentru vizualizare statistici este:\n\n";
+        std::cout<<" ./App1.exe vizualizare_statistici <id_test>\n";
+    }
+    if(strcmp(arguments[1],"modificare_test")==0){
+        std::cout<<"\nComanda pentru modificare test este:\n\n";
+        std::cout<<" ./App1.exe modificare_test <id_test>\n";
+    }
+    if(strcmp(arguments[1], "afiseaza_varianta_curenta")==0){
+        std::cout<<"\nComanda pentru a afisa varianta curenta este:\n\n";
+        std::cout<<" ./App1.exe afiseaza_varianta_curenta\n";
+    }
+    if(strcmp(arguments[1],"modificare_exercitiu")==0){
+        std::cout<<"\nComanda pentru modificarea unui exercitiu este:\n\n";
+        std::cout<<" ./App1.exe modificare_exercitiu <nr_exercitiu>\n";
+    }
+    if(strcmp(arguments[1], "stop_modificare_exercitiu")==0){
+        std::cout<<"\nComanda pentru oprirea modificarii unui exercitiu este:\n\n";
+        std::cout<<" ./App1.exe stop_modificare_exercitiu\n";
+    }
+    if(strcmp(arguments[1], "stop_modificare_test")==0){
+        std::cout<<"\nComanda pentru modificarii unui test este:\n\n";
+        std::cout<<" ./App1.exe stop_modificare_test\n";
+    }
+    if(strcmp(arguments[1], "enunt")==0){
+        std::cout<<"\nComanda pentru modificare enuntului este:\n\n";
+        std::cout<<" ./App1.exe enunt '<enunt>''\n";
+    }
+    if(strcmp(arguments[1], "varianta_corecta")==0){
+        std::cout<<"\nComanda pentru modificarii variantei corecte este:\n\n";
+        std::cout<<" ./App1.exe varianta_corecta <litera_rasp_corect>\n";
+    }
+    if(strcmp(arguments[1], "raspuns")==0){
+        std::cout<<"\nComanda pentru modificarea raspunusului este:\n\n";
+        std::cout<<" ./App1.exe raspuns <litera_rapunsului> '<noul_rapuns>'\n";
+    }
     std::cout<<"\nComanda adaugata nu exista! Mai incercati.\n--"<<arguments[1]<<"--";
 
 }

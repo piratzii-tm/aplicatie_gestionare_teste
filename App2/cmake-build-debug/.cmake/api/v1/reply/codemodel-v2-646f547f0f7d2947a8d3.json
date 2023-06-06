@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "App2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-App2-Debug-2335e11fc335540ee6d3.json",
+					"jsonFile" : "target-App2-Debug-5b1da99a8e7125f4a72c.json",
 					"name" : "App2",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App2/cmake-build-debug",
-		"source" : "C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App2"
+		"build" : "C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App2/cmake-build-debug",
+		"source" : "C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App2"
 	},
 	"version" : 
 	{

@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App2/cmake-build-debug"
+			"value" : "C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App2/cmake-build-debug"
 		},
 		{
 			"name" : "App2_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App2"
+			"value" : "C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App2"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App2/cmake-build-debug"
+			"value" : "c:/Users/Poe/Desktop/aplicatie_gestionare_teste/App2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App2/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App2/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -751,7 +751,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Iulian/Desktop/aplicatie_gestionare_teste/App2"
+			"value" : "C:/Users/Poe/Desktop/aplicatie_gestionare_teste/App2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
