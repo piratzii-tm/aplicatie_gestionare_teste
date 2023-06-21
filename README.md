@@ -51,11 +51,11 @@ Comenzile ce pot fi scrise în linia de comandă sunt:
 
 - `./App2.exe logare '<nume_student>'` 
     Comanda este folosită de către student pentru a se loga, restul comenzilor neputând fi executate dacă studentul nu se loghează.<br><br>
-- `./App1.exe deschide_test <id_test>`
+- `./App2.exe deschide_test <id_test>`
     Când accesăm această comandă, testul specificat, daca există va fi deschis
-- `./App1.exe raspuns_intrebare <raspuns>`
+- `./App2.exe raspuns_intrebare <raspuns>`
     Când accesăm această comandă, dacă răspunsul este unul valid, se va trece la următoarea întrebare(răspunsurile sunt salvate doar la finalizarea testului) 
-- `./App1.exe delogare`
+- `./App2.exe delogare`
     Comanda folosita pentru a de deloga
     
 Cazuri speciale: <br><br>
